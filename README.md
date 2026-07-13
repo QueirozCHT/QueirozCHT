@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Matheus Queiroz
 
-**`Desenvolvedora FullStack`**
+**`Starting out as a Full-Stack Developer`**
 
 Olá, me chamo Matheus, sou formado em Ciência da Computação pela Universidade Paulista (UNIP), com conclusão em 2023. Apaixonado por tecnologia, estou sempre buscando aprender novas ferramentas, acompanhar as tendências do mercado e aprimorar minhas habilidades como desenvolvedor.
 Gosto de enfrentar novos desafios, resolver problemas e desenvolver soluções que gerem valor. Este repositório reúne alguns dos projetos que refletem minha evolução, dedicação e interesse pelo desenvolvimento de software.
@@ -55,8 +55,6 @@ Seja bem-vindo ao meu portfólio!.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="40" alt="css logo"  />
   <img width="12" />
 </div>
 
