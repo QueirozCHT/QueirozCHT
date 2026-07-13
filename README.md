@@ -29,9 +29,9 @@ Seja bem-vindo ao meu portfólio!.
 
 
 <p align="center">
-<a href="https://github.com/lucast1574">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucast1574&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucast1574&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/QueirozCHT">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=QueirozCHT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QueirozCHT&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
