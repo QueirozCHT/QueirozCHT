@@ -7,16 +7,35 @@ Gosto de enfrentar novos desafios, resolver problemas e desenvolver soluções q
 
 Seja bem-vindo ao meu portfólio!.
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> 📫 Connect With Me🤝</h2></summary>
+  </ul>
 </div>
 
-###
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/matheus-queiroz-oliveira-14a706244/" target="_blank">
+<img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+</a>
+</p>
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">MY GITHUB STATS 📈</h2></summary>
+  </ul>
+</div>
+
+
+<p align="center">
+<a href="https://github.com/lucast1574">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucast1574&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucast1574&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<img data-importer="image" align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNnOGxmYXN0ZzRua2MzazhqeGRienEwOXJzbTVvOXd5bms1ZDVhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
 
