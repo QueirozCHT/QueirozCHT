@@ -35,9 +35,17 @@ Seja bem-vindo ao meu portfólio!.
 </a>
 </p>
 
-<img data-importer="image" align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNnOGxmYXN0ZzRua2MzazhqeGRienEwOXJzbTVvOXd5bms1ZDVhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<div align="center">
+  <img data-importer="image" align="center" height="250" src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_grid/v1/attachments/project_item/attachment/65d922ab2c307fa664082c4e7d0b69ca-1750519120708/Animated%20GIF%20Icons.gif"  />
+</div>
 
-###
+<br>
+
+<div align="center">
+  <h3>📟 Programing Languages</h3>
+</div>
+
+<br>
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -47,6 +55,8 @@ Seja bem-vindo ao meu portfólio!.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="40" alt="css logo"  />
   <img width="12" />
 </div>
 
